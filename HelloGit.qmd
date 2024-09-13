@@ -1,8 +1,5 @@
 ---
 title: "Palmer Penguins Report"
-project:
-  type: website
-  output-dir: ./docs
 ---
 
 ```{r}
